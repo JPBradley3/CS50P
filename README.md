@@ -21,3 +21,9 @@ CS50p is an online adaptation of Harvard University's well-known introductory pr
 - Software engineering principles
 - Testing and debugging
 - Version control with Git
+
+## Modules Used
+
+- **Flask**: A micro web framework for Python used for developing web applications.
+- **SQLAlchemy**: An ORM (Object-Relational Mapping) library for Python used for database management.
+- **Jinja**: A templating engine for Python used for rendering dynamic web pages.
