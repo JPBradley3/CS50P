@@ -67,7 +67,7 @@ $100
 
 ### Complete Source Code
 
-```
+```python
 
 ## Get the users input as a greeting to compare later in the code
 def main():
