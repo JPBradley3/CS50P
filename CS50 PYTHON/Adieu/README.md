@@ -81,7 +81,7 @@ Adieu, adieu, to Alice, Bob, and Charlie
 
 ### Complete Source Code
 
-```
+```python
 
 import inflect
 
